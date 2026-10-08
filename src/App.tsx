@@ -59,7 +59,7 @@ function App() {
             <use href="/icons.svg#social-icon"></use>
           </svg>
           <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
+          <p>vijay2805</p>
           <ul>
             <li>
               <a href="https://github.com/vitejs/vite" target="_blank">
